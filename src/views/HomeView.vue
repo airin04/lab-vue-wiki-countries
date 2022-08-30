@@ -1,9 +1,9 @@
 <template>
-  <h1>Home View</h1>
+  <h1>Choose a country!</h1>
 </template>
 
 <script>
   export default {
-    name: 'HomeView',        
-    }
+    name: 'HomeView',  
+  };
 </script>
